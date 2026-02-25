@@ -1,10 +1,28 @@
 # Privacy Policy
 
-**Last updated:** September 25, 2025
+**Last updated:** February 19, 2026
 
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You. We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
+This Privacy Policy describes how FlaggerLink, LLC ("FlaggerLink," "We," "Us," or "Our") collects, uses, and protects information when You use the Service. This Privacy Policy should be read in conjunction with our Terms of Service.
 
-## 1. Interpretation and Definitions
+## 1. Scope and Applicability
+
+### 1.1 Business-to-Business Service
+
+FlaggerLink is a workforce scheduling and dispatch platform provided exclusively to business customers ("Customers"). The Service is not intended for personal, household, or consumer use.
+
+All data processed through the Service relates to employees, contractors, and agents acting in a professional capacity on behalf of a Customer organization. Individuals who access the Service do so as authorized users of a Customer account, not as independent consumers.
+
+### 1.2 Data Ownership and Control
+
+Scheduling data, dispatch records, work logs, certifications, job history, contact information, and related records processed through the Service are business records owned and controlled by the Customer. FlaggerLink processes this data solely on behalf of and at the direction of the Customer organization.
+
+FlaggerLink acts as a service provider and data processor. The Customer organization is the data controller responsible for determining the purposes and means of processing its workforce data.
+
+### 1.3 Employee Self-Service Features
+
+The Service may allow authorized end-users to view or update certain information (such as contact details, certifications, or schedule preferences) through an employee portal. This access is delegated maintenance authorized by the Customer organization and does not transfer ownership or control of the data to the individual user. Editable fields remain business contact and workforce data under Customer control. Read-only data (such as past job assignments, schedules, and dispatch history) are immutable business records maintained by the Customer.
+
+## 2. Interpretation and Definitions
 
 ### Interpretation
 
@@ -18,8 +36,8 @@ For the purposes of this Privacy Policy:
 - **Affiliate** means an entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 - **Application** refers to FlaggerLink, the software program provided by the Company.
 - **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to FlaggerLink, LLC, 5411 S Macadam Ave.
-- **Cookies** are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses.
 - **Country** refers to: Oregon, United States.
+- **Customer** means the business organization that has entered into a service agreement with FlaggerLink to use the Service on behalf of its workforce.
 - **Device** means any device that can access the Service such as a computer, a cell phone or a digital tablet.
 - **Personal Data** is any information that relates to an identified or identifiable individual.
 - **Service** refers to the Application or the Website or both.
@@ -28,7 +46,7 @@ For the purposes of this Privacy Policy:
 - **Website** refers to FlaggerLink, LLC, accessible from [www.flaggerlink.com](https://www.flaggerlink.com).
 - **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
-## 2. Collecting and Using Your Personal Data
+## 3. Collecting and Using Your Personal Data
 
 ### Types of Data Collected
 
@@ -39,24 +57,24 @@ While using Our Service, We may ask You to provide Us with certain personally id
 - Email address
 - First name and last name
 - Phone number
+- Company name and job title
 - Usage Data
 
 #### Usage Data
 
 Usage Data is collected automatically when using the Service. It may include your Device's IP address, browser type and version, pages visited, time and date of visits, time spent on pages, unique device identifiers and other diagnostic data. When accessing via mobile, we may collect additional information about your mobile device.
 
-#### Tracking Technologies and Cookies
+#### Analytics Services
 
-We use Cookies and similar tracking technologies to track activity and store information. Technologies include beacons, tags, and scripts for analysis and improvement.
+We do not use tracking cookies for advertising or marketing purposes. We use the following third-party analytics services solely to understand how our Service is used and to improve the user experience:
 
-##### Third-Party Analytics Services
+- **Google Analytics:** Provided by Google Inc., this service analyzes website traffic and usage patterns. Data collected by Google Analytics is used only for analytics purposes and is not used for ad targeting on our Service. You can opt out by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). Learn more at [Google Privacy Policy](https://policies.google.com/privacy).
+- **Microsoft Clarity:** Provided by Microsoft Corporation, this service analyzes user interactions with our website to improve user experience. Learn more at [Microsoft Privacy Policy](https://privacy.microsoft.com/privacystatement).
+- **Cloudflare Insights:** Provided by Cloudflare, Inc., this service provides website performance and security analytics. Cloudflare also provides content delivery and security services for our website. Learn more at [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).
 
-We use third-party analytics services to help us understand how our Service is used:
+These services may collect information such as your IP address, browser type, pages visited, time spent on pages, and other usage information. No data collected through these services is sold or used for advertising purposes.
 
-- **Google Analytics:** Provided by Google Inc., this service tracks and reports website traffic. Google may use this data to contextualize and personalize ads. You can opt-out by installing the Google Analytics Opt-out Browser Add-on. Learn more at [Google Privacy Policy](https://policies.google.com/privacy).
-- **Microsoft Clarity:** Provided by Microsoft Corporation, this service uses cookies to collect information about user interactions with our website to improve user experience. Learn more at [Microsoft Privacy Policy](https://privacy.microsoft.com/privacystatement).
-
-These services may collect information such as your IP address, browser type, pages visited, time spent on pages, and other usage information to help us analyze and improve our Service.
+**Do Not Track (DNT) Signals:** Some browsers offer a "Do Not Track" signal. We currently do not respond to DNT browser signals. We do not track users across third-party websites for behavioral advertising purposes.
 
 ### Use of Your Personal Data
 
@@ -71,40 +89,53 @@ The Company may use Personal Data for:
 - **For business transfers** such as mergers or acquisitions.
 - **For other purposes** like analytics and improving our Service.
 
-We may share your information:
+### How We Share Your Personal Data
 
-- With Service Providers
-- For business transfers
-- With Affiliates and business partners
-- With other users in public areas
-- With your consent
+We do not sell, rent, or trade Your Personal Data to third parties. We do not share Personal Data for cross-context behavioral advertising. We may share Your information only in the following circumstances:
+
+- **With Service Providers:** We share data with third-party companies that provide services on our behalf, including cloud hosting providers, SMS delivery services, email services, payment processors, and analytics providers. These providers are contractually obligated to protect Your data and may only use it to provide services to us.
+- **For business transfers:** In the event of a merger, acquisition, or sale of assets, Your Personal Data may be transferred to the acquiring entity.
+- **With Affiliates:** We do not currently share data with corporate affiliates. If this changes, we will update this policy.
+- **Legal Requirements:** We may disclose data to comply with legal obligations, court orders, or government requests.
+- **With Your consent:** We may share data for other purposes with Your explicit consent.
+- **Aggregated or De-identified Data:** We may share aggregated or de-identified data that cannot reasonably be used to identify You.
 
 ### SMS Messaging Terms
 
-- By providing your phone number and opting in, you consent to receive SMS messages from FlaggerLink related to scheduling, dispatch notifications, and account alerts.
-- Message frequency varies based on your account activity.
-- Message and data rates may apply.
-- Reply STOP to opt out at any time.
-- Reply HELP for assistance.
-- SMS consent and phone numbers will never be shared with third parties or affiliates under any circumstances.
+- By providing your mobile phone number and expressly opting in, you consent to receive SMS messages from FlaggerLink related to scheduling, dispatch notifications, and account alerts.
+- **Consent Not Required for Purchase:** You are not required to consent to receive SMS messages as a condition of purchasing or using the Service. However, certain Service features that rely on SMS notifications require consent to function properly.
+- Message frequency varies based on your account activity and may include multiple messages per day during active periods.
+- Message and data rates may apply based on your mobile carrier's plan.
+- Reply STOP to opt out at any time. You will receive one final confirmation message.
+- Reply HELP for assistance or contact our support team.
+- Your mobile phone number and SMS consent status are never sold, rented, or shared with third parties or affiliates for their marketing purposes. Phone numbers are shared only with our SMS service providers as necessary to deliver messages and as required by law.
+- SMS messages are sent solely for employer-directed operational purposes, including dispatch, scheduling, shift notifications, and account alerts. Opting out of SMS delivery does not affect the retention of business records or historical data maintained by the Customer organization.
 
 ### Retention of Your Personal Data
 
-We retain Personal Data only as long as necessary for the purposes in this policy, to comply with legal obligations, resolve disputes, and enforce agreements. Usage Data may be retained for shorter periods unless needed for security, functionality, or legal obligations.
+We retain different categories of Personal Data for the following periods:
+
+- **Account Data** (name, email, phone): Duration of active account plus sixty (60) days after termination. After the retention period, data is permanently deleted.
+- **Usage Data** (logs, analytics): Twelve (12) months for security and analytics purposes, then aggregated or deleted.
+- **Billing and Payment Data:** Seven (7) years after final transaction to comply with tax and accounting requirements.
+- **Support Communications:** Three (3) years after case closure for quality assurance and legal compliance.
+- **Legal Holds:** Data subject to legal holds, litigation, regulatory investigations, or audit requirements will be retained until the hold is released, regardless of the above periods.
+
+We review data retention practices annually and delete or anonymize data that is no longer needed.
 
 ### Transfer of Your Personal Data
 
-Your information may be transferred to and maintained on computers outside your jurisdiction. We take reasonable steps to ensure secure treatment and no transfer occurs without adequate safeguards.
+Your information is processed and stored on servers located within the United States. FlaggerLink operates exclusively within the United States and our data centers are US-based. By using the Service, You consent to the processing and storage of Your information in the United States.
 
-### Delete Your Personal Data
+### Deletion and Export of Customer Data
 
-You may request deletion of Personal Data we have collected about you. Some information may be retained as required by law or for legitimate interests.
+Upon termination of a Customer's service agreement and settlement of all outstanding balances and applicable fees, FlaggerLink will provide the Customer with a complete export of its data in CSV or other commercially reasonable format within thirty (30) calendar days, and permanently delete the Customer's data within thirty (30) calendar days of providing the export, except where retention is required by law (such as billing records required for tax compliance). Data deletion and export are handled at the Customer organization level in accordance with the service agreement.
 
 ### Disclosure of Your Personal Data
 
 #### Business Transactions
 
-If the Company is involved in a merger, acquisition, or asset sale, your Personal Data may be transferred.
+If the Company is involved in a merger, acquisition, or asset sale, your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different privacy policy.
 
 #### Law Enforcement and Other Legal Requirements
 
@@ -118,23 +149,105 @@ We may disclose Personal Data when necessary to:
 
 ### Security of Your Personal Data
 
-We use commercially reasonable means to protect Personal Data, but no method of transmission or storage is 100% secure.
+#### Security Measures
 
-## 3. Children's Privacy
+FlaggerLink maintains commercially reasonable administrative, physical, and technical safeguards designed to protect Customer data from unauthorized access, use, or disclosure. No internet-based service or data storage system can be guaranteed to be 100% secure, and security threats are constantly evolving.
 
-Our Service does not address anyone under 13. If we learn we collected Personal Data from a child under 13 without parental consent, we will remove it.
+#### Third-Party Service Providers
 
-## 4. Links to Other Websites
+FlaggerLink utilizes third-party service providers to deliver the Service and related functionality, including but not limited to cloud hosting providers, SMS carriers, email services, payment processors, and database providers. FlaggerLink selects reputable service providers that maintain appropriate security measures. FlaggerLink is not liable for security incidents originating from third-party systems, infrastructure, or personnel.
+
+#### Shared Security Responsibility
+
+You are responsible for:
+
+- Maintaining the confidentiality and security of all user credentials, passwords, and authentication information.
+- Implementing appropriate access controls and permissions within the Service.
+- Ensuring Your personnel follow security best practices.
+- Promptly notifying FlaggerLink of any suspected unauthorized access or security concerns.
+- Maintaining adequate security on Your networks, devices, and infrastructure used to access the Service.
+
+Weak passwords, shared credentials, phishing attacks targeting Your personnel, or inadequate security practices on Your side may result in unauthorized access to Your data, and FlaggerLink shall not be liable for security incidents resulting from Your failure to maintain adequate security practices.
+
+#### Breach Notification
+
+In the event FlaggerLink becomes aware of a security incident that results in unauthorized access to or acquisition of Customer data that compromises the security, confidentiality, or integrity of such data, FlaggerLink will:
+
+- Investigate the incident promptly upon discovery.
+- Notify affected Customers via email within seventy-two (72) hours of confirmation of the breach or such shorter time as required by applicable law.
+- Provide reasonable information about the nature of the breach, the types of data involved (to the extent known), and steps being taken to address the incident.
+- Cooperate reasonably with Customer's investigation of the incident.
+- Comply with all applicable data breach notification laws.
+
+If a security breach originates from Customer's systems or personnel, or results from Customer's failure to maintain adequate security practices, Customer shall be solely responsible for all notification obligations, remediation costs, and any resulting damages or liabilities.
+
+## 4. Your Privacy Rights
+
+### 4.1 Privacy Request Handling
+
+FlaggerLink processes Personal Data solely on behalf of Customer organizations. FlaggerLink does not accept or process privacy rights requests from individual end-users. All requests regarding access, correction, deletion, or portability of Personal Data must be submitted by or through the Customer organization. FlaggerLink may decline individual requests that conflict with Customer rights, contractual obligations, or legal requirements.
+
+If You are an authorized end-user of a Customer account and wish to exercise privacy rights regarding Your data, contact Your employer (the Customer organization) directly. Your employer is responsible for managing and responding to privacy requests from its workforce in accordance with applicable law.
+
+If You are a direct Customer (account holder), You may submit requests by contacting us at the information provided in Section 8. We will respond within a reasonable timeframe and in accordance with applicable law.
+
+### 4.2 California Residents (CCPA/CPRA)
+
+FlaggerLink acts as a service provider as defined under the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA). The data processed through the Service is primarily business contact and employment-related information provided by and controlled by Customer organizations.
+
+**Categories of Personal Information Collected:**
+
+| Category | Examples | Business Purpose |
+|---|---|---|
+| Identifiers | Name, email, phone, IP address, account ID | Account creation, service delivery, communications |
+| Commercial Information | Subscription history, purchase records | Billing, subscription management |
+| Internet/Network Activity | Browsing history, usage logs, device information | Service functionality, security, analytics |
+| Geolocation Data | IP-based approximate location | Service delivery, security |
+| Professional Information | Job title, company name, role | Account management, service customization |
+
+**Categories NOT Collected:** Biometric information, health information, sexual orientation, precise geolocation, racial or ethnic origin, religious beliefs, union membership, Social Security numbers, driver's license numbers, genetic data.
+
+**Sources of Personal Information:**
+
+- Directly from You (account registration, profile updates)
+- Automatically through use of the Service (usage data, device information)
+- From Your employer or company (if You are added as a user by Your organization)
+
+**Sale or Sharing of Personal Information:**
+
+We do **NOT** sell Personal Information. We do **NOT** share Personal Information for cross-context behavioral advertising.
+
+**Sensitive Personal Information:**
+
+We collect the following categories of Sensitive Personal Information as defined by CCPA: account login credentials (email and password, which is stored in hashed form). We use Sensitive Personal Information only for purposes permitted under CCPA, including account authentication, service delivery, security, and fraud prevention. We do NOT use Sensitive Personal Information to infer characteristics about You.
+
+**CCPA/CPRA Rights:**
+
+California law provides the following rights with respect to Personal Information: the right to know what categories and specific pieces of Personal Information are collected, and from what sources; the right to request deletion, subject to certain exceptions; the right to request correction of inaccurate information; the right to opt out of the sale or sharing of Personal Information (FlaggerLink does not sell or share Personal Information, so no opt-out is necessary); the right to limit the use of Sensitive Personal Information; and the right to non-discrimination for exercising these rights.
+
+As described in Section 4.1, FlaggerLink processes data on behalf of Customer organizations and acts as a service provider under CCPA/CPRA. Individual end-user employees should direct privacy requests to their employer. Customer organizations (direct account holders) may contact us at the information provided in Section 8.
+
+### 4.3 General Rights
+
+Depending on Your jurisdiction, You may have additional rights regarding Your Personal Data, including the right to access, correct, delete, or obtain a portable copy of Your data. As set forth in Section 4.1, all such requests must be submitted by or through the Customer organization. We will respond within the timeframe required by applicable law.
+
+You are responsible for ensuring that Your use of the Service complies with all applicable data protection laws and regulations in Your jurisdiction.
+
+## 5. Children's Privacy
+
+Our Service is not intended for use by children under the age of 13, and we do not knowingly collect Personal Data from children under 13. If You are a parent or guardian and believe Your child under 13 has provided us with Personal Data, please contact us immediately. We will promptly investigate and delete such information.
+
+## 6. Links to Other Websites
 
 Our Service may contain links to third-party sites. We are not responsible for their content or privacy practices. Please review their privacy policies.
 
-## 5. Changes to this Privacy Policy
+## 7. Changes to this Privacy Policy
 
-We may update this policy. We will post the new policy on this page and update the "Last updated" date. Please review periodically.
+We may update this policy from time to time. We will notify You of changes by updating the "Last updated" date at the top of this policy. For material changes that affect Your rights — including changes to what Personal Data we collect, how we use it, how we share it, or Your privacy rights — we will send email notification to the address on file at least thirty (30) days before the changes take effect. Your continued use of the Service after changes take effect constitutes acceptance of the updated Privacy Policy.
 
-## 6. Contact Us
+## 8. Contact Us
 
-If you have questions about this Privacy Policy, contact us:
+If you have questions about this Privacy Policy or wish to exercise Your privacy rights, contact us:
 
 - Via our [Contact page](https://www.flaggerlink.com/contact)
 

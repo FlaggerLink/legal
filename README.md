@@ -6,8 +6,8 @@ This repository contains the official Terms of Service and Privacy Policy for Fl
 
 | Document | Description | Current Version |
 |----------|-------------|-----------------|
-| [Terms of Service](terms-of-service/terms-of-service.md) | Rules governing use of the FlaggerLink Service | v1.0 |
-| [Privacy Policy](privacy-policy/privacy-policy.md) | How we collect, use, and protect your data | v1.0 |
+| [Terms of Service](terms-of-service/terms-of-service.md) | Rules governing use of the FlaggerLink Service | v1.1 |
+| [Privacy Policy](privacy-policy/privacy-policy.md) | How we collect, use, and protect your data | v1.1 |
 
 ## Version History
 
